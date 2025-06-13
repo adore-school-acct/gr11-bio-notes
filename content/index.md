@@ -5,7 +5,7 @@ description: to get good at biology
 
 # Grade 11 Biology Notes (SBI3U)
 
-🚧 **NOTE:** This is a work in progress.
+🚧 **NOTE:** This is a work in progress (WIP).
 
 ## U0 - Safety and Prereqs
 
