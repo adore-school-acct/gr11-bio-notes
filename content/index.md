@@ -54,3 +54,9 @@ description: to get good at biology
 - [[U4 - Genetics/c4.4-cell-cycle.md|C4.4 - Cell Cycle and Cellular Division]]
 - [[U4 - Genetics/c4.5-nature-of-sex.md|C4.5 - The Nature of Sex]]
 - [[U4 - Genetics/c4.6-genetic-research.md|C4.6 - Genetic Research]]
+
+## Sources
+
+- Mr. Christopher Jones
+- BiologySource 11
+- other sources listed
